@@ -10,13 +10,13 @@ global.Api = {
 global.ApiKey = 'coderevolution' //JIKA INGIN MENDAPATKAN KOMISI DAFTAR DI HTTPS://AMPIBISMM.MY.ID UNTUK MENDAPATKAN APIKEY!
 
 global.smm = {
-  nomor : '6283102650464',
+  nomor : '6289649480997',
   atasnama : 'Ahmad Nur Fadhil'
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
+global.owner = ['6289649480997"]
+global.premium = ['6289649470997']
 global.sponsor = 'no sponsors in:('
 global.packname = 'Crizzy-Bot'
 global.footer = '© 2022 Fadhil Graphy'
