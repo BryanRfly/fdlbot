@@ -15,7 +15,7 @@ global.smm = {
 }
 
 // Other
-global.owner = ['6289649480997"]
+global.owner = ['6289649480997']
 global.premium = ['6289649470997']
 global.sponsor = 'no sponsors in:('
 global.packname = 'Crizzy-Bot'
